@@ -1,3 +1,4 @@
+.atom-build.json
 */enabled/*
 .DS_Store
 !custom/example.bash
@@ -8,3 +9,10 @@ lib/custom.bash
 plugins/custom.plugins.bash
 *.swp
 .*.un~
+bats
+.idea
+*.sublime-workspace
+*.sublime-project
+enabled/*
+/enabled
+tmp/
